@@ -1,0 +1,23 @@
+{
+  "name": "BlockChain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testblock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemaViswanath17/BlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemaViswanath17/BlockChain/issues"
+  },
+  "homepage": "https://github.com/HemaViswanath17/BlockChain#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
